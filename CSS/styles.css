@@ -1,0 +1,13 @@
+
+@import "reset.css";
+
+@import "main_screen/header.css";
+@import "main_screen/main.css";
+@import "main_screen/footer.css";
+
+
+body {
+    position: relative;
+    height: 200vh;
+}
+

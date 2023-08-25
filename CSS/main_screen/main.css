@@ -36,3 +36,7 @@
 .main_screen_img {  
     z-index: -3;
 }
+
+.main_nav_bar {
+    background-color: green;
+}
